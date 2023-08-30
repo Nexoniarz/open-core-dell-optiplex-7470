@@ -1,2 +1,5 @@
-Website In Building!
-For Efi check a Content
+Dell Optiplex 7470 AIO 
+OpenCore
+- Bigsur
+- Ventura (i'm making now)
+- Sonoma (Soon)
