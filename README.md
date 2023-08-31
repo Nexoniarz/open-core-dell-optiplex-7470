@@ -1,4 +1,5 @@
 Dell Optiplex 7470 AIO 
+!!! THIS IS ONLY FOR INTEL GRAPHICS VERSION OF DELL OPTIPLEX 7470
 OpenCore
 --------
 - Bigsur
