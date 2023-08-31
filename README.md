@@ -2,5 +2,6 @@ Dell Optiplex 7470 AIO
 OpenCore
 --------
 - Bigsur
-- Ventura (i'm making now)
+- Montery (i'm making now)
+- Ventura (Soon)
 - Sonoma (Soon)
